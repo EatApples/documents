@@ -1,0 +1,5 @@
+{
+	"dbname":"test",
+	"cmd":"find",
+	"args":["lpf","{}","{}"]
+}
